@@ -16,3 +16,10 @@
 | 빅카인즈 | 삼성전자 기사 크롤링 데이터 |
 | 한국거래소 | 휘발유, 경우 일별 주가 |
 | Fred | 미국장단기금리차_10년2년 |
+
+- [데이터_야후파이낸스](https://finance.yahoo.com/quote/005930.KS?p=005930.KS&.tsrc=fin-srch)
+- [데이터_인베스팅닷컴](https://kr.investing.com/search/?q=%EC%9B%90%EC%9E%90%EC%9E%AC)
+- [데이터_빅카인즈](https://www.bigkinds.or.kr/)
+- [데이터_한국_거래소](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd)
+- [데이터_Fred](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd)
+
