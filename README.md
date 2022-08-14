@@ -22,6 +22,3 @@
 - [데이터_빅카인즈](https://www.bigkinds.or.kr/)
 - [데이터_한국_거래소](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd)
 - [데이터_Fred](http://data.krx.co.kr/contents/MDC/MAIN/main/index.cmd)
-
-# 2. 전처리
-## 2.1
